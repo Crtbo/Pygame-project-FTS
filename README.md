@@ -16,3 +16,5 @@ code elsewhere.
 
 Also you can use the images I made in your
 own games if you want.
+Sound effects are so bad, that you shouldn't
+even listen to them.
